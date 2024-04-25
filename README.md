@@ -116,6 +116,6 @@
 
 <br clear="both">
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Yummy-Yoshi/Yummy-Yoshi/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Yummy-Yoshi/Yummy-Yoshi/output/github-contribution-grid-snake.svg-dark" />
 
 ###
