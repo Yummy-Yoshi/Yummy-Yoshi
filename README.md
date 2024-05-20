@@ -3,14 +3,16 @@
 </div>
 
 ###
-
-<h2 align="left">Hi 👋! My name is Emmanuel Vergez and I'm a Computer Science Graduate, from Florida State University</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&color=F7DC00&center=true&random=false&width=435&lines=Emmanuel+Vergez" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DC00&center=true&random=true&width=700&lines=4%2B+years+of+coding+experience;Florida+State+University+Computer+Science+Graduate;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yummy-Yoshi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yummy-Yoshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yummy-Yoshi&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yummy-Yoshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
