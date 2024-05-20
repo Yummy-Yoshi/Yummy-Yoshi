@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h3 align="left">Used Technologies</h3>
+<h3 align="left">💻 Used Technologies</h3>
 
 ###
 
@@ -119,5 +119,13 @@
 <br clear="both">
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Yummy-Yoshi/Yummy-Yoshi/output/github-contribution-grid-snake-dark.svg" />
+
+###
+
+<p align="center">
+    <a href="https://github.com/Yummy-Yoshi/Worms-Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yummy-Yoshi&repo=worms-clone&theme=cobalt2&icon_color=F7DC00" alt="worms-clone"></a>
+    <a href="https://github.com/Yummy-Yoshi/CSharpSpring23_StudentProject"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yummy-Yoshi&repo=csharpspring23_studentproject&theme=cobalt2&icon_color=F7DC00" alt="csharpspring23_studentproject"></a>
+
+</p>
 
 ###
